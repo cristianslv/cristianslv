@@ -18,7 +18,7 @@
  <div align="center">
    <h3>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-         🙎 Cristian Eduardo | 💻 Full Stack Developer | ⚽ Brazil 
+         🚶‍♂️ Cristian Eduardo | 💻 Full Stack Developer | ⚽ Brazil 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
  </div>
@@ -33,8 +33,18 @@
 </p>
  
 <h5 align="center">
-   <i>💥 if you find out my profile interesting, i´d love to have you as a friend 💥</i>
+   <i>💥 if you find out my profile interesting, i'd love to have you as a friend 💥</i>
 </h5>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3icfMXvoPduLuaH2L/giphy.gif" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Flutter&Dart&JWTAuth; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/odCristian);
+- ➡️ That's how my projects are treated
 
 <!--
 **odCristian/odCristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
