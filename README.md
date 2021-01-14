@@ -1,5 +1,5 @@
 ## 📣 $('#cristian').val()   
-- I'm 19 years old 🚶‍♂️
+- I'm 19 years old <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="30"> 
 <img src="https://media.giphy.com/media/Wm8h2gyEY8VnJeru6f/giphy.gif" alt="rs"  width="40%" height="40%" align="right"/>
 - 🔭 I love coding, except when my ☕ is empty
 - 🌱 I'm currently learning Flutter & Node.js & JWT Authetication
