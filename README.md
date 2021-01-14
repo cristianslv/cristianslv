@@ -36,7 +36,7 @@
    <i>💥 if you find out my profile interesting, i'd love to have you as a friend 💥</i>
 </h5>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/f3icfMXvoPduLuaH2L/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3icfMXvoPduLuaH2L/giphy.gif" width="400" height="280" />
   
 **Talking about Personal Stuffs:**
 
