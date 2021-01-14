@@ -4,22 +4,40 @@
 </div>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+  <a href="https://www.linkedin.com/in/cristian-eduardo-da-silva-596385197/">
      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/8bithemant">
+  <a href="https://twitter.com/od_cristian">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
   </a>&nbsp;&nbsp;
-  <a href="https://dev.to/hemant">
-    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/trinnwin">
+  <a href="https://open.spotify.com/user/22pgeqb446mlg7tpixg7sla7a?si=LlCtxTF1RbKZcNQk9S-24A">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true">
   </a>&nbsp;&nbsp;
-  <a href="https://www.coffee.com/hemant">
-    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true">
-  </a>&nbsp;&nbsp;
  </p>
+ 
+ <div align="center">
+   <h3>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+         🙎 Cristian Eduardo | 💻 Full Stack Developer | ⚽ Brazil 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   </h3>
+ </div>
+
+
+<p align="center">
+   <a href="https://twitter.com/_hemant_joshi">
+      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi">
+   </a>
+   <a href="https://badges.pufler.dev/visits/odCristian/odCristian"> 
+      ![Twitter Follow](https://img.shields.io/twitter/follow/od_cristian?label=Follow)
+      <img alt="cristian eduardo github" src="https://badges.pufler.dev/visits/odCristian/odCristian"> 
+      ![GitHub followers](https://img.shields.io/github/followers/odCristian?label=Follow&style=social)     
+   </a>
+</p>
+ 
+<h5 align="center">
+   <i>💥 if you find out my profile interesting, i´d love to have you as a friend 💥</i>
+</h5>
 
 <!--
 **odCristian/odCristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
