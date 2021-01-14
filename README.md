@@ -2,7 +2,7 @@
    
    ## 📣 $('#cristian').val()   
    - I'm 19 years old 🚶‍♂️
-   <p align="right" width="50%"> <img src="https://media.giphy.com/media/Wm8h2gyEY8VnJeru6f/giphy.gif" alt="rs" /> </p>
+   <img src="https://media.giphy.com/media/Wm8h2gyEY8VnJeru6f/giphy.gif" alt="rs" width="40%"/>
    - 🔭 I love coding, except when my ☕ is empty
    - 🌱 I'm currently learning Flutter & Node.js & JWT Authetication
    - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working with
