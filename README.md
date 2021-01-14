@@ -25,11 +25,9 @@
 
 
 <p align="center">
-   ![Twitter Follow](https://img.shields.io/twitter/follow/od_cristian?label=Follow)
    <a href="https://badges.pufler.dev/visits/odCristian/odCristian"> 
       <img alt="cristian eduardo github" src="https://badges.pufler.dev/visits/odCristian/odCristian"> 
-   </a>
-   ![GitHub followers](https://img.shields.io/github/followers/odCristian?label=Follow&style=social)   
+   </a>  
 </p>
  
 <h5 align="center">
