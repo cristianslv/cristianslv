@@ -17,9 +17,9 @@
 ## 📣 $('#cristian').val() 
 
 - I'm 19 years old <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="30"> 
-- 🌱 I'm currently learning Flutter & Node.js & JWT Authetication <img src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="30"> 
 <img width="40%" height="40%" src="https://media.giphy.com/media/Wm8h2gyEY8VnJeru6f/giphy.gif" align=right>
-
+- <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4595/blob-turtle.gif?1536351075" width="30"> 
+  I'm currently learning Flutter & Node.js & JWT Authetication <img src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="30"> 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working with
   - 🖱️ (can't live without him)
   - ⌨️ (helps me a lot)
