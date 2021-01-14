@@ -2,12 +2,6 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">Cristian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/cristian-eduardo-da-silva-596385197/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/od_cristian"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/22pgeqb446mlg7tpixg7sla7a?si=LlCtxTF1RbKZcNQk9S-24A"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- </p>
  
  <div align="center">
    <h3>
