@@ -35,7 +35,7 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Flutter&Dart&JWTAuth; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/odCristian);
+- 📫 How to reach me: [@odcristian](https://twitter.com/od_cristian);
 - ➡️ That's how my projects are treated
 
 <!--
