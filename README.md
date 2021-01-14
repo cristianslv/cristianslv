@@ -1,4 +1,5 @@
-<div align="center">
+<div width="100%">
+   <p align="left" width="50%"> <img src="https://media.giphy.com/media/Wm8h2gyEY8VnJeru6f/giphy.gif" alt="rs" /> </p>
    <img align="right" alt="GIF" src="https://media.giphy.com/media/5L57f5fI3f2716NaJ3/giphy.gif" width="1200" height="400" />
 </div>
  
