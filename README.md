@@ -25,14 +25,11 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/_hemant_joshi">
-      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi">
-   </a>
+   ![Twitter Follow](https://img.shields.io/twitter/follow/od_cristian?label=Follow)
    <a href="https://badges.pufler.dev/visits/odCristian/odCristian"> 
-      ![Twitter Follow](https://img.shields.io/twitter/follow/od_cristian?label=Follow)
       <img alt="cristian eduardo github" src="https://badges.pufler.dev/visits/odCristian/odCristian"> 
-      ![GitHub followers](https://img.shields.io/github/followers/odCristian?label=Follow&style=social)     
    </a>
+   ![GitHub followers](https://img.shields.io/github/followers/odCristian?label=Follow&style=social)   
 </p>
  
 <h5 align="center">
