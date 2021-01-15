@@ -19,16 +19,16 @@
 
 ## 📌 Find me at
 <p align="left">
-  <a href="https://twitter.com/MairaAbhishek" target="_blank">
+  <a href="https://twitter.com/od_cristian" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank">
+  <a href="https://www.linkedin.com/in/cristian-eduardo-da-silva-596385197/" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/abhishek_maira10/" target="_blank">
+  <a href="https://www.instagram.com/od_cristian/" target="_blank">
     <img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank">
+  <a href="https://open.spotify.com/user/22pgeqb446mlg7tpixg7sla7a?si=QJivUTOwRUahvmK9K24JSw" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
