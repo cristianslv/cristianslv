@@ -33,6 +33,24 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+## 🚀 My stacks
+<p align="left">
+  <a href="https://www.codechef.com/users/abhimaira_10" style="background-color: #8a2be2">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/abhishekmaira1999/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/abhishekmaira191">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.codewars.com/users/abhimaira_10">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+</p>
 
 <!--
 **odCristian/odCristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
