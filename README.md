@@ -37,15 +37,15 @@
 
 ## 🚀 My stacks
 <p align="left">
-  <img src="https://emojis.slackmojis.com/emojis/images/1599551048/10416/elephpant.png?1599551048" heigth="35" width="35">
-  <img src="https://emojis.slackmojis.com/emojis/images/1536564516/4640/laravel.png?1536564516" heigth="35" width="35">
-  <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" heigth="35" width="35">
-  <img src="https://emojis.slackmojis.com/emojis/images/1483052921/1537/vue.png?1483052921" heigth="35" width="35">
-  <img src="https://emojis.slackmojis.com/emojis/images/1536564030/4639/jquery.png?1536564030" heigth="35" width="35">
-  <img src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362" heigth="35" width="35">
-  <img src="https://emojis.slackmojis.com/emojis/images/1535719209/4570/dartlang.png?1535719209" heigth="35" width="35">
-  <img src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" heigth="35" width="35">
-  <img src="https://emojis.slackmojis.com/emojis/images/1588895440/8944/vscode.png?1588895440" heigth="35" width="35">
+  <img src="https://emojis.slackmojis.com/emojis/images/1599551048/10416/elephpant.png?1599551048" heigth="35" width="35">&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1536564516/4640/laravel.png?1536564516" heigth="35" width="35">&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" heigth="35" width="35">&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1483052921/1537/vue.png?1483052921" heigth="35" width="35">&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1536564030/4639/jquery.png?1536564030" heigth="35" width="35">&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362" heigth="35" width="35">&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1535719209/4570/dartlang.png?1535719209" heigth="35" width="35">&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" heigth="35" width="35">&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1588895440/8944/vscode.png?1588895440" heigth="35" width="35">&nbsp;
 </p>
 
 <!--
