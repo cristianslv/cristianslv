@@ -33,8 +33,11 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
 ## 🚀 My stacks
 <p align="left">
+  <span height="5" width="15" style="background-color: #fff">teste</span>
   <a href="https://www.codechef.com/users/abhimaira_10" style="background-color: #8a2be2">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
