@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-  <img src="https://gpvc.arturio.dev/cristianslv" alt="profile views"> •
+  <img src="https://gpvc.arturio.dev/cristianslv" alt="profile views">
 </p>
 
 <!--
