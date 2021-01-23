@@ -48,6 +48,10 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588895440/8944/vscode.png?1588895440" heigth="35" width="35">&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="left">
+  <img src="https://gpvc.arturio.dev/cristianslv" alt="profile views"> •
+</p>
+
 <!--
 **odCristian/odCristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
